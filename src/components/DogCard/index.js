@@ -3,11 +3,11 @@ import "./style.css";
 
 function DogCard(props) {
     return (
-        <div className="card">
-            <div className="img-container">
+        <div className="container">
+            <div className="img-container row">
                 {props.dogs.map(item => (
-                    <div>
-                <img alt={item.name} src={item.image} />
+                    <div className="col">
+                <img className="dogpic" alt={item.name} src={item.image} />
                     </div>
                 ))}
             </div>

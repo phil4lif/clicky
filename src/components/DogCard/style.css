@@ -1,0 +1,7 @@
+.img-container, .dogpic {
+    border: solid 2px black;
+}
+
+.dogpic {
+    margin: 3px;
+}
