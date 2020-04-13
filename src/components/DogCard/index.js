@@ -5,8 +5,14 @@ function DogCard(props) {
     return (
         <div className="card">
             <div className="img-container">
-                <img alt={props.name} src={props.image} />
+                {props.dogs.map(item => (
+                    <div>
+                <img alt={item.name} src={item.image} />
+                    </div>
+                ))}
             </div>
         </div>
     )
 }
+
+export default DogCard;
