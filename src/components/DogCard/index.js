@@ -2,6 +2,7 @@ import React from "react";
 import "./style.css";
 
 function DogCard(props) {
+
     return (
         <div className="container">
             <div className="img-container row">
