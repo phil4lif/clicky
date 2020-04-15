@@ -6,6 +6,8 @@ function Header(props) {
     <div className="container">
       <h1 className="display-4">Good Boy Memory Click</h1>
       <p className="lead">Try to click each good boy only once!</p>
+      <div>Score: {props.score} </div>
+      <div>High Score: {props.highScore}</div>
     </div>
   </div>
 }

@@ -1,7 +1,4 @@
-.img-container, .dogpic {
-    border: solid 2px black;
-}
-
 .dogpic {
+    border: solid 2px black;
     margin: 3px;
 }
