@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import DogCard from "./components/DogCard";
 import dogs from "./dogs.json";
 import Header from "./components/Header"
-
+import Footer from "./components/Footer"
 class App extends Component {
     constructor(props) {
         super(props)
@@ -74,6 +74,7 @@ class App extends Component {
                 dogs={this.state.dogs}
                 onClick={this.clickHandle}
             />
+            <Footer />
         </div>
 
         )
