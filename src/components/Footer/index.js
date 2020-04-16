@@ -4,7 +4,7 @@ import "./style.css"
 
 function Footer() {
     return <div><div id="spacer"></div>
-    <div class="card">
+    <div className="card">
 <div className="container">
   <div className="card-body">
     <blockquote className="blockquote mb-0">

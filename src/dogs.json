@@ -2,73 +2,73 @@
     {
         "id": 1,
         "name": "Grey Dog",
-        "image": "assets/images/alexandru-rotariu-o_QTeyGVWjQ-unsplash.jpg",
+        "image": "clicky/assets/images/alexandru-rotariu-o_QTeyGVWjQ-unsplash.jpg",
         "clicked": false
     },
     {
         "id": 2,
         "name": "Border Collie",
-        "image": "assets/images/baptist-standaert-mx0DEnfYxic-unsplash.jpg",
+        "image": "clicky/assets/images/baptist-standaert-mx0DEnfYxic-unsplash.jpg",
         "clicked": false
     },
     {
         "id": 3,
         "name": "Black Mouth Cur",
-        "image": "assets/images/Black-mouth-cur-cover.jpg",
+        "image": "clicky/assets/images/Black-mouth-cur-cover.jpg",
         "clicked": false
     },
     {
         "id": 4,
         "name": "Pug",
-        "image": "assets/images/charles-deluvio-zqhe4qjVTJI-unsplash.jpg",
+        "image": "clicky/assets/images/charles-deluvio-zqhe4qjVTJI-unsplash.jpg",
         "clicked": false
     },
     {
         "id": 5,
         "name": "Siberian Husky",
-        "image": "assets/images/clayton-caldwell-yMTb07aTw3I-unsplash.jpg",
+        "image": "clicky/assets/images/clayton-caldwell-yMTb07aTw3I-unsplash.jpg",
         "clicked": false
     },
     {
         "id": 6,
         "name": "Australian Cattle Dog",
-        "image": "assets/images/daniel-lincoln-VAQSOBLXoX4-unsplash.jpg",
+        "image": "clicky/assets/images/daniel-lincoln-VAQSOBLXoX4-unsplash.jpg",
         "clicked": false
     },
     {
         "id": 7,
         "name": "German Shepherd Dog",
-        "image": "assets/images/ekaterina-kobalnova-DvxDrD6cFIc-unsplash.jpg",
+        "image": "clicky/assets/images/ekaterina-kobalnova-DvxDrD6cFIc-unsplash.jpg",
         "clicked": false
     },
     {
         "id": 8,
         "name": "Retriever",
-        "image": "assets/images/jamie-street-wcO2PWLuQ3U-unsplash.jpg",
+        "image": "clicky/assets/images/jamie-street-wcO2PWLuQ3U-unsplash.jpg",
         "clicked": false
     },
     {
         "id": 9,
         "name": "White Husky",
-        "image": "assets/images/jf-brou-915UJQaxtrk-unsplash.jpg",
+        "image": "clicky/assets/images/jf-brou-915UJQaxtrk-unsplash.jpg",
         "clicked": false
     },
     {
         "id": 10,
         "name": "Retriever",
-        "image": "assets/images/justin-aikin-KFJuCzJiQYU-unsplash.jpg",
+        "image": "clicky/assets/images/justin-aikin-KFJuCzJiQYU-unsplash.jpg",
         "clicked": false
     },
     {
         "id": 11,
         "name": "Pug",
-        "image": "assets/images/matthew-henry-U5rMrSI7Pn4-unsplash.jpg",
+        "image": "clicky/assets/images/matthew-henry-U5rMrSI7Pn4-unsplash.jpg",
         "clicked": false
     },
     {
         "id": 12,
         "name": "Yellow Lab",
-        "image": "assets/images/vincent-van-zalinge-vRNcSWIElE4-unsplash.jpg",
+        "image": "clicky/assets/images/vincent-van-zalinge-vRNcSWIElE4-unsplash.jpg",
         "clicked": false
     }
 ]
