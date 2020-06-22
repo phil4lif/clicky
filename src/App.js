@@ -3,6 +3,7 @@ import DogCard from "./components/DogCard";
 import dogs from "./dogs.json";
 import Header from "./components/Header"
 import Footer from "./components/Footer"
+
 class App extends Component {
     constructor(props) {
         super(props)
@@ -15,7 +16,6 @@ class App extends Component {
     clickHandle = (id) => {
         console.log("clicked", id)
         let newDogs = this.state.dogs.map(dog => {
-
             if (dog.id === id) {
                 if (dog.clicked === false) {
                     this.updateScore()

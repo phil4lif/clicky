@@ -5,7 +5,7 @@ function DogCard(props) {
 
     return (
         <div className="container">
-            <div className="img-container row">
+            <div  className="img-container row">
                 {props.dogs.map(item => (
                     <div key={item.id} className="col-3">
                         <img onClick={() => {

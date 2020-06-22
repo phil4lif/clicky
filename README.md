@@ -1,7 +1,7 @@
 Deployment-
 https://phil4lif.github.io/clicky/
 
-![Game Screenshot]()
+![Game Screenshot](public/assets/images/screenshot.png)
 ## Available Scripts
 
 In the project directory, you can run:
